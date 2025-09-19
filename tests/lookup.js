@@ -23,7 +23,7 @@ var tests = {
             return zipcodes.lookup(62959);
         },
         'should be ok': function(marion) {
-            assert.equal(marion.city, 'Marion sdsa');
+            assert.equal(marion.city, 'Marion sdsa Changes2');
         }
     },
     'Miami': {
