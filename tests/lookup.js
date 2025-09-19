@@ -25,6 +25,7 @@ var tests = {
         'should be ok': function(marion) {
             assert.equal(marion.city, 'Marion sdsa');
             assert.equal(marion.city, 'Marion Change1');
+            assert.equal(marion.city, 'Marion Change2');
             
 
         }
