@@ -26,6 +26,7 @@ var tests = {
             assert.equal(marion.city, 'Marion sdsa');
             assert.equal(marion.city, 'Marion Change1');
             assert.equal(marion.city, 'Marion Change2');
+            assert.equal(marion.city, 'Marion Change3');
             
 
         }
